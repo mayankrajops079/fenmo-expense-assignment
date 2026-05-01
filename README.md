@@ -80,10 +80,5 @@ Authentication, user accounts, recurring expenses, pagination, and deployment co
 
 The app is deployed on Streamlit Community Cloud:
 
-https://expense-tracker-fenma-assignment.streamlit.app/
+https://fenmo-expense-assignment-hq33fd9hpqgdsw43x7figw.streamlit.app/
 
-## Intentionally not done
-
-Custom design system: used simple Streamlit components because of the timebox.
-User authentication and multi-user support were intentionally not included
-to keep the system focused and maintainable within the time constraint.
