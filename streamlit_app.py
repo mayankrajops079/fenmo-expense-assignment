@@ -9,7 +9,7 @@ import pandas as pd
 import requests
 import streamlit as st
 
-from backend.backend.embedded import ensure_embedded_api
+from backend.embedded import ensure_embedded_api
 
 
 API_UNAVAILABLE_MESSAGE = (
