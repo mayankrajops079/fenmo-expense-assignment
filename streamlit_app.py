@@ -13,7 +13,7 @@ from backend.embedded import ensure_embedded_api
 
 
 API_UNAVAILABLE_MESSAGE = (
-    "The expense API is not reachable. If you are running locally, start it with "
+    "The expense API  is not reachable. If you are running locally, start it with "
     "`python -m uvicorn backend.main:app --reload` or use `start_app.bat`, "
     "then refresh this page."
 )
